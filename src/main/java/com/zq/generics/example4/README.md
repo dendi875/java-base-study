@@ -1,0 +1,1 @@
+https://stackabuse.com/guide-to-understanding-generics-in-java/?ref=morioh.com&utm_source=morioh.com#genericclassesandobjects
